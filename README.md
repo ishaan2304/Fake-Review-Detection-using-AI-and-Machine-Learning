@@ -3,7 +3,7 @@ Developed an AI-based fake review detection system using logistic regression, an
 
 ## Project Overview
 
-Online reviews play a crucial role in e-commerce decisions, but fake reviews can mislead users. This system uses **Logistic Regression** to classify reviews as **genuine** or **fake** by analyzing the textual content of the review.
+Online reviews play a crucial role in e-commerce decisions, but fake reviews can mislead users. This system uses **Logistic Regression** to classify reviews as **genuine** or **fake** by analyzing the textual content of the review
 
 The system includes:
 
